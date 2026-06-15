@@ -145,12 +145,6 @@ spotify-data-analysis/
 ├── sql_queries/
 │   └── spotify_analysis.sql
 │
-├── screenshots/
-│   ├── q1_stream_analysis.png
-│   ├── q7_energy_analysis.png
-│   ├── q11_window_function.png
-│   └── q13_cte_analysis.png
-│
 └── README.md
 ```
 
